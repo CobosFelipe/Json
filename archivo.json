@@ -1,0 +1,739 @@
+[
+  {
+    "info_general": {
+      "edicion": 2024,
+      "anfitrion": "Estados unidos"
+    }
+  },
+  {
+    "participantes": {
+      "grupo_a": [
+        {
+          "nombre": "Argentina",
+          "entrenador": "Lionel Scaloni",
+          "cant_jugadores": 29,
+          "edad_promedio": 28,
+          "fecha_fundacion": "21-02-1863",
+          "clasificacion_fifa": 1,
+          "sede": {
+            "estadio": "Mâs Monumental",
+            "aforo": 86049,
+            "ciudad": "Buenos Aires"
+          },
+          "jugadores": [
+            {
+              "nombre": "Lionel Messi",
+              "posicion": "Delantero",
+              "edad": 36,
+              "altura": 169,
+              "numero_camiseta": 10,
+              "pie_dominante": "Izquierdo",
+              "valor": "33M",
+              "puntuacion": 7.68
+            },
+            {
+              "nombre": "Nicolás Otamendi",
+              "posicion": "Defensa",
+              "edad": 36,
+              "altura": 183,
+              "numero_camiseta": 30,
+              "pie_dominante": "Derecho",
+              "valor": "1.6M",
+              "puntuacion": 7.45
+            },
+            {
+              "nombre": "Emiliano Martínez",
+              "posicion": "Portero",
+              "edad": 31,
+              "altura": 195,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "27M",
+              "puntuacion": 6.97
+            }
+          ]
+        },
+        {
+          "nombre": "Canadá",
+          "entrenador": "Jesse Marsch",
+          "cant_jugadores": 28,
+          "edad_promedio": 25.6,
+          "fecha_fundacion": "24-05-1912",
+          "clasificacion_fifa": 49,
+          "sede": {
+            "estadio": "BMO Field",
+            "aforo": 30000,
+            "ciudad": "Toronto"
+          },
+          "jugadores": [
+            {
+              "nombre": "Jayden Nelson",
+              "posicion": "Delantero",
+              "edad": 21,
+              "altura": 170,
+              "numero_camiseta": 11,
+              "pie_dominante": "Derecho",
+              "valor": "3.2M",
+              "puntuacion": 7.3
+            },
+            {
+              "nombre": "Milan Borjan",
+              "posicion": "Portero",
+              "edad": 36,
+              "altura": 193,
+              "numero_camiseta": 82,
+              "pie_dominante": "Derecho",
+              "valor": "880K",
+              "puntuacion": 7.0
+            },
+            {
+              "nombre": "Kamal Miller",
+              "posicion": "Defensa",
+              "edad": 27,
+              "altura": 183,
+              "numero_camiseta": 4,
+              "pie_dominante": "Izquierdo",
+              "valor": "3.7M",
+              "puntuacion": 6.77
+            }
+          ]
+        },
+        {
+          "nombre": "Chile",
+          "entrenador": "Ricardo Gareca",
+          "cant_jugadores": 55,
+          "edad_promedio": 28.2,
+          "fecha_fundacion": "19-06-1895",
+          "clasificacion_fifa": 42,
+          "sede": {
+            "estadio": "Estadio Nacional",
+            "aforo": 48745,
+            "ciudad": "Santiago"
+          },
+          "jugadores": [
+            {
+              "nombre": "Alexis Sánchez",
+              "posicion": "Delantero",
+              "edad": 35,
+              "altura": 169,
+              "numero_camiseta": 70,
+              "pie_dominante": "Derecho",
+              "valor": "2.7M",
+              "puntuacion": 7.02
+            },
+            {
+              "nombre": "Gary Medel",
+              "posicion": "Defensa",
+              "edad": 36,
+              "altura": 171,
+              "numero_camiseta": 17,
+              "pie_dominante": "Derecho",
+              "valor": "460K",
+              "puntuacion": 6.5
+            },
+            {
+              "nombre": "Claudio Bravo",
+              "posicion": "Portero",
+              "edad": 41,
+              "altura": 185,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "810K",
+              "puntuacion": 7.2
+            }
+          ]
+        },
+        {
+          "nombre": "Perú",
+          "entrenador": "Jorge Fossati",
+          "cant_jugadores": 45,
+          "edad_promedio": 27.4,
+          "fecha_fundacion": "23-08-1922",
+          "clasificacion_fifa": 32,
+          "sede": {
+            "estadio": "Estadio Nacional",
+            "aforo": 45574,
+            "ciudad": "Lima"
+          },
+          "jugadores": [
+            {
+              "nombre": "Gianluca Lapadula",
+              "posicion": "Delantero",
+              "edad": 34,
+              "altura": 178,
+              "numero_camiseta": 9,
+              "pie_dominante": "Izquierdo",
+              "valor": "1.9M",
+              "puntuacion": 6.81
+            },
+            {
+              "nombre": "Luis Advíncula",
+              "posicion": "Defensa",
+              "edad": 34,
+              "altura": 177,
+              "numero_camiseta": 17,
+              "pie_dominante": "Derecho",
+              "valor": "1.1M",
+              "puntuacion": 6.57
+            },
+            {
+              "nombre": "Pedro Gallese",
+              "posicion": "Portero",
+              "edad": 34,
+              "altura": 189,
+              "numero_camiseta": 1,
+              "pie_dominante": "Izquierdo",
+              "valor": "1.5M",
+              "puntuacion": 6.83
+            }
+          ]
+        }
+      ],
+      "grupo_b": [
+        {
+          "nombre": "Ecuador",
+          "entrenador": "Félix Sánchez",
+          "cant_jugadores": 30,
+          "edad_promedio": 24.8,
+          "fecha_fundacion": "30-05-1925",
+          "clasificacion_fifa": 31,
+          "sede": {
+            "estadio": "Olimpico Atahualpa",
+            "aforo": 35742,
+            "ciudad": "Quito"
+          },
+          "jugadores": [
+            {
+              "nombre": "Enner Valencia",
+              "posicion": "Delantero",
+              "edad": 34,
+              "altura": 177,
+              "numero_camiseta": 13,
+              "pie_dominante": "Derecho",
+              "valor": "2.5M",
+              "puntuacion": 6.40
+            },
+            {
+              "nombre": "GFélix Torres",
+              "posicion": "Defensa",
+              "edad": 27,
+              "altura": 187,
+              "numero_camiseta": 3,
+              "pie_dominante": "Derecho",
+              "valor": "6.5M",
+              "puntuacion": 7.09
+            },
+            {
+              "nombre": "Moisés Ramírez",
+              "posicion": "Portero",
+              "edad": 23,
+              "altura": 185,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "1.4M",
+              "puntuacion": 6.98
+            }
+          ]
+        },
+        {
+          "nombre": "Jamaica",
+          "entrenador": "Heimir Hallgrímsson",
+          "cant_jugadores": 33,
+          "edad_promedio": 26,
+          "fecha_fundacion": "01-01-1910",
+          "clasificacion_fifa": 55,
+          "sede": {
+            "estadio": "Independence Park",
+            "aforo": 35000,
+            "ciudad": "Kingston"
+          },
+          "jugadores": [
+            {
+              "nombre": "Michail Antonio",
+              "posicion": "Delantero",
+              "edad": 34,
+              "altura": 180,
+              "numero_camiseta": 9,
+              "pie_dominante": "Derecho",
+              "valor": "4.7M",
+              "puntuacion": 6.74
+            },
+            {
+              "nombre": "Di'Shon Bernard",
+              "posicion": "Defensa",
+              "edad": 23,
+              "altura": 188,
+              "numero_camiseta": 17,
+              "pie_dominante": "Derecho",
+              "valor": "1.5M",
+              "puntuacion": 6.86
+            },
+            {
+              "nombre": "Andre Blake",
+              "posicion": "Portero",
+              "edad": 33,
+              "altura": 193,
+              "numero_camiseta": 18,
+              "pie_dominante": "Derecho",
+              "valor": "1.9M",
+              "puntuacion": 6.65
+            }
+          ]
+        },
+        {
+          "nombre": "Mexico",
+          "entrenador": "Jaime Lozano",
+          "cant_jugadores": 54,
+          "edad_promedio": 24,
+          "fecha_fundacion": "23-08-1927",
+          "clasificacion_fifa": 14,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Santiago Giménez",
+              "posicion": "Delantero",
+              "edad": 23,
+              "altura": 182,
+              "numero_camiseta": 29,
+              "pie_dominante": "Izquierdo",
+              "valor": "41M",
+              "puntuacion": 7.33
+            },
+            {
+              "nombre": "Johan Vásquez",
+              "posicion": "Defensa",
+              "edad": 25,
+              "altura": 185,
+              "numero_camiseta": 22,
+              "pie_dominante": "Izquierdo",
+              "valor": "5.6M",
+              "puntuacion": 7.04
+            },
+            {
+              "nombre": "Luis Malagón",
+              "posicion": "Portero",
+              "edad": 27,
+              "altura": 179,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "4.6M",
+              "puntuacion": 7.31
+            }
+          ]
+        },
+        {
+          "nombre": "Venezuela",
+          "entrenador": "Fernando Batista",
+          "cant_jugadores": 50,
+          "edad_promedio": 26.7,
+          "fecha_fundacion": "01-01-1951",
+          "clasificacion_fifa": 54,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Salomón Rondón",
+              "posicion": "Delantero",
+              "edad": 34,
+              "altura": 189,
+              "numero_camiseta": 23,
+              "pie_dominante": "Derecho",
+              "valor": "1.1M",
+              "puntuacion": 7.89
+            },
+            {
+              "nombre": "Nahuel Ferraresi",
+              "posicion": "Defensa",
+              "edad": 25,
+              "altura": 188,
+              "numero_camiseta": 32,
+              "pie_dominante": "Derecho",
+              "valor": "1.4M",
+              "puntuacion": 7.05
+            },
+            {
+              "nombre": "Wuilker Faríñez",
+              "posicion": "Portero",
+              "edad": 26,
+              "altura": 181,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "1M",
+              "puntuacion": 5.84
+            }
+          ]
+        }
+      ],
+      "grupo_c": [
+        {
+          "nombre": "Bolivia",
+          "entrenador": "Antonio Carlos Zago",
+          "cant_jugadores": 52,
+          "edad_promedio": 25.4,
+          "fecha_fundacion": "03-11-1931",
+          "clasificacion_fifa": 85,
+          "sede": {
+            "estadio": "Estadio Hernando Siles",
+            "aforo": 42000,
+            "ciudad": "La Paz"
+          },
+          "jugadores": [
+            {
+              "nombre": "Moises Paniagua",
+              "posicion": "Delantero",
+              "edad": 16,
+              "altura": 169,
+              "numero_camiseta": 40,
+              "pie_dominante": "",
+              "valor": "675K",
+              "puntuacion": 6.65
+            },
+            {
+              "nombre": "Miguel Terceros",
+              "posicion": "Defensa",
+              "edad": 20,
+              "altura": 177,
+              "numero_camiseta": 47,
+              "pie_dominante": "Izquierdo",
+              "valor": "530K",
+              "puntuacion": 6.80
+            },
+            {
+              "nombre": "Carlos Lampe",
+              "posicion": "Portero",
+              "edad": 37,
+              "altura": 192,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "290K",
+              "puntuacion": 7.53
+            }
+          ]
+        },
+        {
+          "nombre": "Panamá",
+          "entrenador": "Thomas Christiansen",
+          "cant_jugadores": 40,
+          "edad_promedio": 27.2,
+          "fecha_fundacion": "28-07-1937",
+          "clasificacion_fifa": 45,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Ismael Díaz",
+              "posicion": "Delantero",
+              "edad": 27,
+              "altura": 181,
+              "numero_camiseta": 30,
+              "pie_dominante": "Derecho",
+              "valor": "1.5M",
+              "puntuacion": 7.54
+            },
+            {
+              "nombre": "Michael Murillo",
+              "posicion": "Defensa",
+              "edad": 28,
+              "altura": 183,
+              "numero_camiseta": 62,
+              "pie_dominante": "Derecho",
+              "valor": "2.8M",
+              "puntuacion": 6.95
+            },{
+              "nombre": "Orlando Mosquera",
+              "posicion": "Portero",
+              "edad": 29,
+              "altura": 191,
+              "numero_camiseta": 25,
+              "pie_dominante": "Derecho",
+              "valor": "365K",
+              "puntuacion": 7.09
+            }
+          ]
+        },
+        {
+          "nombre": "Uruguay",
+          "entrenador": "Marcelo Bielsa",
+          "cant_jugadores": 26,
+          "edad_promedio": 26.1,
+          "fecha_fundacion": "30-03-1900",
+          "clasificacion_fifa": 15,
+          "sede": {
+            "estadio": "Estadio Centenario",
+            "aforo": 60235,
+            "ciudad": "Montevideo"
+          },
+          "jugadores": [
+            {
+              "nombre": "Luis Suárez",
+              "posicion": "Delantero",
+              "edad": 37,
+              "altura": 182,
+              "numero_camiseta": 9,
+              "pie_dominante": "Derecho",
+              "valor": "3.6M",
+              "puntuacion": 7.46
+            },
+            {
+              "nombre": "Ronald Araújo",
+              "posicion": "Defensa",
+              "edad": 25,
+              "altura": 191,
+              "numero_camiseta": 4,
+              "pie_dominante": "Derecho",
+              "valor": "76M",
+              "puntuacion": 7.03
+            },
+            {
+              "nombre": "Sergio Rochet",
+              "posicion": "Portero",
+              "edad": 31,
+              "altura": 190,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "3.3M",
+              "puntuacion": 7.12
+            }
+          ]
+        },
+        {
+          "nombre": "Estados Unidos",
+          "entrenador": "Gregg Berhalter",
+          "cant_jugadores": 30,
+          "edad_promedio": 25,
+          "fecha_fundacion": "05-04-1913",
+          "clasificacion_fifa": 11,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Folarin Balogun",
+              "posicion": "Delantero",
+              "edad": 22,
+              "altura": 179,
+              "numero_camiseta": 29,
+              "pie_dominante": "Derecho",
+              "valor": "27M",
+              "puntuacion": 6.80
+            },
+            {
+              "nombre": "Sergiño Dest",
+              "posicion": "Defensa",
+              "edad": 23,
+              "altura": 173,
+              "numero_camiseta": 8,
+              "pie_dominante": "Derecho",
+              "valor": "21M",
+              "puntuacion": 7.40
+            },
+            {
+              "nombre": "Matt Turner",
+              "posicion": "Portero",
+              "edad": 29,
+              "altura": 190,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "7.3M",
+              "puntuacion": 6.98
+            }
+          ]
+        }
+      ],
+      "grupo_d": [
+        {
+          "nombre": "Brazil",
+          "entrenador": "Dorival Júnior",
+          "cant_jugadores": 27,
+          "edad_promedio": 25.8,
+          "fecha_fundacion": "20-08-1914",
+          "clasificacion_fifa": 5,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Vinícius Júnior",
+              "posicion": "Delantero",
+              "edad": 23,
+              "altura": 176,
+              "numero_camiseta": 7,
+              "pie_dominante": "Derecho",
+              "valor": "156M",
+              "puntuacion": 7.66
+            },
+            {
+              "nombre": "Marquinhos",
+              "posicion": "Defensa",
+              "edad": 30,
+              "altura": 183,
+              "numero_camiseta": 5,
+              "pie_dominante": "Derecho",
+              "valor": "53M",
+              "puntuacion": 7.26
+            },
+            {
+              "nombre": "Alisson",
+              "posicion": "Portero",
+              "edad": 31,
+              "altura": 191,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "31M",
+              "puntuacion": 7.02
+            }
+          ]
+        },
+        {
+          "nombre": "Colombia",
+          "entrenador": "Nestor Lorenzo",
+          "cant_jugadores": 28,
+          "edad_promedio": 28,
+          "fecha_fundacion": "12-10-1924",
+          "clasificacion_fifa": 12,
+          "sede": {
+            "estadio": "",
+            "aforo": 0,
+            "ciudad": ""
+          },
+          "jugadores": [
+            {
+              "nombre": "Luis Díaz",
+              "posicion": "Delantero",
+              "edad": 27,
+              "altura": 178,
+              "numero_camiseta": 7,
+              "pie_dominante": "Derecho",
+              "valor": "81M",
+              "puntuacion": 7.19
+            },
+            {
+              "nombre": "Davinson Sánchez",
+              "posicion": "Defensa",
+              "edad": 28,
+              "altura": 187,
+              "numero_camiseta": 6,
+              "pie_dominante": "Derecho",
+              "valor": "17.5M",
+              "puntuacion": 7.05
+            },
+            {
+              "nombre": "David Ospina",
+              "posicion": "Portero",
+              "edad": 35,
+              "altura": 183,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "2.7M",
+              "puntuacion": 7.01
+            }
+          ]
+        },
+        {
+          "nombre": "Costa Rica",
+          "entrenador": "Gustavo Alfaro",
+          "cant_jugadores": 37,
+          "edad_promedio": 25.3,
+          "fecha_fundacion": "13-06-1921",
+          "clasificacion_fifa": 52,
+          "sede": {
+            "estadio": "Estadio Nacional de Costa Rica",
+            "aforo": 35175,
+            "ciudad": "San Jose"
+          },
+          "jugadores": [
+            {
+              "nombre": "Manfred Ugalde",
+              "posicion": "Delantero",
+              "edad": 22,
+              "altura": 171,
+              "numero_camiseta": 9,
+              "pie_dominante": "Derecho",
+              "valor": "8.2M",
+              "puntuacion": 6.73
+            },
+            {
+              "nombre": "Francisco Calvo",
+              "posicion": "Defensa",
+              "edad": 31,
+              "altura": 181,
+              "numero_camiseta": 15,
+              "pie_dominante": "Izquierdo",
+              "valor": "1.6M",
+              "puntuacion": 7.16
+            },
+            {
+              "nombre": "Keylor Navas",
+              "posicion": "Portero",
+              "edad": 37,
+              "altura": 185,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "2.1M",
+              "puntuacion": 6.70
+            }
+          ]
+        },
+        {
+          "nombre": "Paraguay",
+          "entrenador": "Daniel Oscar Garnero",
+          "cant_jugadores": 38,
+          "edad_promedio": 27.7,
+          "fecha_fundacion": "18-06-1906",
+          "clasificacion_fifa": 56,
+          "sede": {
+            "estadio": "Estadio Defensores del Chaco",
+            "aforo": 42354,
+            "ciudad": "Asuncion"
+          },
+          "jugadores": [
+            {
+              "nombre": "Miguel Almirón",
+              "posicion": "Delantero",
+              "edad": 30,
+              "altura": 174,
+              "numero_camiseta": 24,
+              "pie_dominante": "Derecho",
+              "valor": "19.4M",
+              "puntuacion": 6.95
+            },
+            {
+              "nombre": "Gustavo Gómez",
+              "posicion": "Defensa",
+              "edad": 31,
+              "altura": 185,
+              "numero_camiseta": 15,
+              "pie_dominante": "Derecho",
+              "valor": "8M",
+              "puntuacion": 7.25
+            },
+            {
+              "nombre": "Carlos Coronel",
+              "posicion": "Portero",
+              "edad": 27,
+              "altura": 190,
+              "numero_camiseta": 1,
+              "pie_dominante": "Derecho",
+              "valor": "760k",
+              "puntuacion": 6.92
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
